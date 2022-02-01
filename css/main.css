@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+
+
+#container 
+{
+    width: 700px;
+    margin: 0 auto;
+}
+
+body
+{
+    font-family: Open Sans Condensed', Helvetica, Arial, sans-serif
+}
+
+h2
+{
+    font-weight: 300;
+    font-size: 34px;
+    color: #9bac73;
+    letter-spacing: 1px
+}
+
+h3 
+{
+    font-weight: 700;
+    font-size: 14px;
+    color: #738152;
+}

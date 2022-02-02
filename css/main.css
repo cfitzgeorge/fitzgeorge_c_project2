@@ -1,24 +1,68 @@
 @charset "UTF-8";
 
+.hidden
+{
+    display: none;
+}
 
+#hero-img
+{
+    width: 55%;
+    height: 55%;
+}
 
+#img1
+{
+    width: 55%;
+    height: 55%;
+}
 
+#img2
+{
+    width: 55%;
+    height: 55%;
+    float: right;
+    margin: auto;
+}
+
+#img3
+{
+    width: 55%;
+    height: 55%;
+}
+
+#img4
+{
+    width: 55%;
+    height: 55%;
+}
 #container 
 {
     width: 700px;
     margin: 0 auto;
 }
 
+.dropCap 
+{
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 70px;
+    float: left;
+    margin: 5px 10px 0px 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#724e0b;
+}
+
 body
 {
-    font-family: Open Sans Condensed', Helvetica, Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h2
 {
     font-weight: 300;
     font-size: 34px;
-    color: #9bac73;
+    color: #72663d;
     letter-spacing: 1px
 }
 
@@ -26,5 +70,5 @@ h3
 {
     font-weight: 700;
     font-size: 14px;
-    color: #738152;
+    color: #83701b;
 }
